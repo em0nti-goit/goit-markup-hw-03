@@ -215,9 +215,7 @@ img {
 
 .footer {
   background-color: var(--color-site-1);
-}
 
-.footer-wrap {
   padding-top: 60px;
   padding-bottom: 60px;
 }
